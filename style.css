@@ -172,6 +172,7 @@ h1 {
         height: 70px;
     }
     .rating p {
+        margin-top: 15px;
         padding-bottom: 0;
     }
     .rating figure {
